@@ -1,6 +1,9 @@
 {
   "name": "onji",
   "version": "0.0.0",
+  "description": "Karaoke for language learners",
+  "homepage": "https://github.com/gastropoda/onji",
+  "repository": "https://github.com/gastropoda/onji",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
